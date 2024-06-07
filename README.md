@@ -53,11 +53,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/felipequentino/soul_trap_skyrim?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/felipequentino/machine-learning"><b>Code collection off Machine Learning</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/felipequentino/machine-learning?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/felipequentino/machine-learning?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/felipequentino/machine-learning?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/felipequentino/machine-learning?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/felipequentino/machine-learning"><b>Web Application of Brazil Live Data</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/felipequentino/app-live-data?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/felipequentino/app-live-data?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/felipequentino/app-live-data?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/felipequentino/app-live-data?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
