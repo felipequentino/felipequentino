@@ -2,7 +2,7 @@
 <div>
   <div>
     <p>Welcome to my page!</p>
-    <p>I'm Felipe, Fullstack developer from <b>Sergipe, Brazil</b> <img src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-xl.png" width="18" /></p>
+    <p>I'm Felipe, Data Scientist from <b>Sergipe, Brazil</b> <img src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-xl.png" width="18" /></p>
     <p>Currently learning Computer Vision 🐍</p>
   </div>
   <div> 
