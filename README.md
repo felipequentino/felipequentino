@@ -2,7 +2,7 @@
 <div>
   <div>
     <p>welcome to my github!</p>
-    <p>I'm Joao Quentino, Data Scientist from <b>Sergipe, Brazil</b>.<img src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-xl.png" width="18" /></p>
+    <p>I'm João Quentino, Data Scientist from <b>Sergipe, Brazil</b>.<img src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-xl.png" width="18" /></p>
     <p> I'm a mix of spike from cowboy bepop, jin of samurai champloo, johhny silverhand from cyberpunk, and batman from knight fall. also I'm literally Artyom from Metro saga</p>
   </div>
   <p>currently building recommendation systems</p>
