@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> hey! nice to see you.</h1>
 <div>
   <div>
-    <p>Welcome to my page!</p>
-    <p>I'm Felipe, Data Scientist from <b>Sergipe, Brazil</b> <img src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-xl.png" width="18" /></p>
-    <p>Currently working with rec sys</p>
+    <p>welcome to my github!</p>
+    <p>I'm Joao Quentino, Data Scientist from <b>Sergipe, Brazil</b>.<img src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-xl.png" width="18" /></p>
+    <p> I'm a mix of spike from cowboy bepop, jin of samurai champloo, johhny silverhand from cyberpunk, and batman from knight fall</p>
   </div>
   <div> 
     <img src="https://miro.medium.com/0*QKcmZoxERUgDfaSg" alt="recsys" height="450"/>
